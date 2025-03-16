@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://xfuryus.live/projects](https://xfuryus.live/projects)
 
-- 📫 How to reach me **me@xfuryus.live**
+- 📫 Reach me at **me@xfuryus.live**
 
 - ⚡ Fun fact **I am an Apple geek.**
 
