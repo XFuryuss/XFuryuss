@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [xfuryus.com](https://xfuryus.com)
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/XFuryuss?tab=repositories)
-
 - 📫 Reach me at **inquiries@xfuryus.com**
+
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/XFuryuss?tab=repositories)
 
 - 🌱 **HTML, CSS, javascript, PHP, and C**
 
