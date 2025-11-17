@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [xfuryus.com](https://xfuryus.com)
 
-- 🌱 **HTML, CSS, javascript, PHP, and C**
-
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/XFuryuss?tab=repositories)
 
 - 📫 Reach me at **inquiries@xfuryus.com**
+
+- 🌱 **HTML, CSS, javascript, PHP, and C**
 
 - 📱 Fun fact **I am an Apple geek.**
 
