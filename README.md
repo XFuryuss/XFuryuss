@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm XFuryus</h1>
+<h1 align="center">Hi 👋, This is XFuryus</h1>
 <h3 align="center">Web developer and computer science engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfuryuss&label=Profile%20views&color=0e75b6&style=flat" alt="xfuryuss" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 **HTML, CSS, javascript, PHP, and C**
 
-- 📱 Fun fact **I am an Apple geek.**
+- 📱 Fun fact: **I am an Apple geek.**
 
 <h3 align="left">Connect with me on my server:</h3>
 <p align="left">
