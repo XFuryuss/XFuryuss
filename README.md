@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfuryuss&label=Profile%20views&color=0e75b6&style=flat" alt="xfuryuss" /> </p>
 
-- 🔭 I’m currently working on [xfuryus.com](https://xfuryus.com)
+- 🔭 I’m currently working on [github-repoviewer](https://github.com/XFuryuss/github-repoviewer)
 
 - 📫 Reach me at **inquiries@xfuryus.com**
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/XFuryuss?tab=repositories)
+- 👨‍💻 All of my projects are available on the [Projects](https://xfuryus.com/projects) page
 
 - 🌱 **HTML, CSS, javascript, PHP, and C**
 
-- 📱 Fun fact: **I am an Apple geek.**
+- 📱 Fun fact, **I am an Apple geek.**
 
-<h3 align="left">Connect with me on my server:</h3>
+<h3 align="left">Connect with me on my Discord server:</h3>
 <p align="left">
-<a href="https://discord.gg/HG5wfDhZ49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wmwHbz7F7S" height="30" width="40" /></a>
+<a href="https://xfuryud.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wmwHbz7F7S" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
