@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfuryuss&label=Profile%20views&color=0e75b6&style=flat" alt="xfuryuss" /> </p>
 
-- 🔭 I’m currently working on [github-repoviewer](https://github.com/XFuryuss/github-repoviewer)
+- 🔭 I’m currently working on [XFuryus SMP](https://minecraftpocket-servers.com/server/129981/)
 
 - 📫 Reach me at **inquiries@xfuryus.com**
 
